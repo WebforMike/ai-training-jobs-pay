@@ -1,10 +1,14 @@
 # AI training jobs and pay
 
+[![AI Training Pay MCP connector](https://glama.ai/mcp/connectors/com.aitrainingpay/ai-training-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.aitrainingpay/ai-training-jobs)
+
 Open data and a free MCP server for AI training work: RLHF, model evaluation, data annotation, expert data, language and voice roles. Maintained by [AI Training Pay](https://www.aitrainingpay.com), which reads the public job boards of 13 AI training platforms and records the pay each role states.
 
 Snapshot in this repo: 2026-11-23, 4,298 open roles. The live versions of every file update with each data refresh on the site.
 
 ## MCP server
+
+Listed in the [official MCP registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.aitrainingpay) as `com.aitrainingpay/ai-training-jobs` and on [Glama](https://glama.ai/mcp/connectors/com.aitrainingpay/ai-training-jobs).
 
 A remote MCP server with no key and no sign-in. Streamable HTTP:
 
