@@ -1,0 +1,15 @@
+{
+  "title": "AI training jobs and pay: open roles and stated pay from AI training platforms' public job boards",
+  "upload_type": "dataset",
+  "description": "<p>Open AI training roles (RLHF, model evaluation, data annotation, expert data, language and voice work) read from the public job boards of AI training platforms, with each role's stated pay normalized to hourly. Files: roles.csv / roles.json (one row per open role: platform, field, language, places, stated pay and unit, hourly equivalent, credentials required, hours, posted and first-seen dates), pay-by-field.csv and pay-by-platform.csv (median listed hourly pay, from roles that state a range; 'up to' ceilings counted separately), and trends.csv (daily role counts and medians since October 2026).</p><p>Pay is what listings state, not what anyone was paid. Reposts of the same role across platforms are counted once. Methodology: https://www.aitrainingpay.com/methodology. The live files update with each refresh at https://www.aitrainingpay.com/open-data; each release of this repository is a dated snapshot.</p>",
+  "creators": [{ "name": "Cortez, Michael", "affiliation": "Hokuto Labs (AI Training Pay)" }],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": ["AI training", "RLHF", "data annotation", "platform work", "gig economy", "wages", "labor economics", "crowd work"],
+  "related_identifiers": [
+    { "identifier": "https://www.aitrainingpay.com/open-data", "relation": "isSupplementTo", "resource_type": "dataset" },
+    { "identifier": "https://huggingface.co/datasets/AI-Training-Pay/ai-training-jobs-pay", "relation": "isIdenticalTo", "resource_type": "dataset" },
+    { "identifier": "https://www.aitrainingpay.com/methodology", "relation": "isDocumentedBy", "resource_type": "publication-other" }
+  ],
+  "language": "eng"
+}
