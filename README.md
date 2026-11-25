@@ -69,4 +69,6 @@ Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit a
 
 That DOI always resolves to the latest release. Each dated release also has its own DOI, listed on [Zenodo](https://doi.org/10.5281/zenodo.24525171); cite that one when you need the exact files you used.
 
+Other copies: [Hugging Face](https://huggingface.co/datasets/AI-Training-Pay/ai-training-jobs-pay), [Kaggle](https://www.kaggle.com/datasets/aitrainingpay/ai-training-jobs-and-pay).
+
 Corrections: https://www.aitrainingpay.com/about#corrections

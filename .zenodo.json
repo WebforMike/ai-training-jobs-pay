@@ -9,6 +9,7 @@
   "related_identifiers": [
     { "identifier": "https://www.aitrainingpay.com/open-data", "relation": "isSupplementTo", "resource_type": "dataset" },
     { "identifier": "https://huggingface.co/datasets/AI-Training-Pay/ai-training-jobs-pay", "relation": "isIdenticalTo", "resource_type": "dataset" },
+    { "identifier": "https://www.kaggle.com/datasets/aitrainingpay/ai-training-jobs-and-pay", "relation": "isIdenticalTo", "resource_type": "dataset" },
     { "identifier": "https://www.aitrainingpay.com/methodology", "relation": "isDocumentedBy", "resource_type": "publication-other" }
   ],
   "language": "eng"
