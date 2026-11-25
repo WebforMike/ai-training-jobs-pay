@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: AI training jobs and pay
+message: "If you use this data, please cite it as below and link https://www.aitrainingpay.com."
+type: dataset
+authors:
+  - name: AI Training Pay
+url: "https://www.aitrainingpay.com/open-data"
+repository-code: "https://github.com/WebforMike/ai-training-jobs-pay"
+license: CC-BY-4.0
+date-released: "2026-11-23"
+keywords: [ai training, rlhf, data annotation, jobs, pay, wages, mcp]
