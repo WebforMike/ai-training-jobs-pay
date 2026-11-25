@@ -1,24 +1,24 @@
 field,label,open_roles,roles_with_hourly_range,median_hourly_usd,p75_hourly_usd,ceiling_only_roles,median_ceiling_usd
-medicine,Medicine & health,264,171,97.5,165,50,180
+medicine,Medicine & health,269,169,90,160,57,180
 mental-health,Mental health,35,27,85,100,5,80
-law,Law,187,151,105,132.5,21,80
-finance,Finance & accounting,252,162,85,100,47,85
+law,Law,188,152,105,132.5,21,80
+finance,Finance & accounting,251,160,85,100,47,85
 chemistry,Chemistry,71,48,83,90,13,65
 biology,Biology & life sciences,69,29,67.5,87.5,13,75
 physics,Physics,44,30,70,105,9,75
 math,Math & statistics,99,46,90,185,25,25
-stem,General STEM,36,9,50,55,4,39
+stem,General STEM,35,8,50,90,4,39
 energy-earth,Energy & earth sciences,78,24,70,82.5,47,85
-business,Business & operations,232,148,61,80,48,80
-engineering,Engineering,311,180,78,96.155,91,85
-coding,Software & coding,390,212,70,82.5,59,65
+business,Business & operations,236,152,63,80,48,80
+engineering,Engineering,310,179,80,97.5,91,85
+coding,Software & coding,388,210,70,82.5,59,65
 ml-ai,Machine learning,118,65,90,125,13,75
-data,Data & analytics,126,74,23,55,7,55
-security,Security & defense,116,98,85,115,8,103
-design-media,Design & media,86,55,70,80,19,120
+data,Data & analytics,123,73,22.5,55,7,55
+security,Security & defense,118,100,85,125,8,103
+design-media,Design & media,82,51,70,80,19,120
 writing,Writing & editing,32,25,50,80,4,100
-languages,Languages & translation,962,302,25,40,128,25
-voice-audio,Voice & audio,480,350,28,37.5,17,80
-education,Teaching,29,13,52.5,55,9,75
-politics-social,Humanities & policy,44,24,54,72.5,12,73
-generalist,Generalist,237,125,39.5,55,47,25
+languages,Languages & translation,962,300,25,40,128,25
+voice-audio,Voice & audio,458,303,25.5,47.5,17,80
+education,Teaching,30,14,53,57.5,9,75
+politics-social,Humanities & policy,45,24,54,72.5,12,73
+generalist,Generalist,243,131,39.5,60,47,25

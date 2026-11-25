@@ -4,7 +4,7 @@
 
 Open data and a free MCP server for AI training work: RLHF, model evaluation, data annotation, expert data, language and voice roles. Maintained by [AI Training Pay](https://www.aitrainingpay.com), which reads the public job boards of 13 AI training platforms and records the pay each role states.
 
-Snapshot in this repo: 2026-11-23, 4,298 open roles. The live versions of every file update with each data refresh on the site.
+Snapshot in this repo: 2026-11-25, 4,284 open roles. The live versions of every file update with each data refresh on the site.
 
 ## MCP server
 

@@ -1,14 +1,14 @@
 platform,name,open_roles,roles_with_hourly_range,median_hourly_usd,ceiling_only_roles,median_ceiling_usd,top_hourly_usd
-mercor,Mercor,355,339,80,0,,350
+mercor,Mercor,343,326,80,0,,350
 micro1,micro1,365,352,70,0,,400
-handshake,Handshake AI,249,0,,249,80,300
-alignerr,Alignerr,500,500,60,0,,280
+handshake,Handshake AI,252,0,,252,80,300
+alignerr,Alignerr,501,501,60,0,,280
 outlier,Outlier,14,0,,14,25,80
-xai,xAI,22,22,48,0,,100
+xai,xAI,20,20,55,0,,100
 invisible,Invisible,741,70,22,0,,200
-turing,Turing,257,20,15,1,30,200
+turing,Turing,258,20,15,1,30,200
 appen,Appen,1,0,,0,,
-opentrain,OpenTrain AI,1293,866,68,396,70,400
-oneforma,OneForma,24,4,30,0,,150
-rws,RWS TrainAI,145,98,18,35,15,36.45
-welodata,Welo Data,332,97,17,1,18,67
+opentrain,OpenTrain AI,1286,830,70,400,70,400
+oneforma,OneForma,25,4,10,0,,150
+rws,RWS TrainAI,146,99,18,35,15,36.45
+welodata,Welo Data,332,98,19,1,18,67

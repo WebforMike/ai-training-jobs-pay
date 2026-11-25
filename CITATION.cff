@@ -9,5 +9,6 @@ authors:
 url: "https://www.aitrainingpay.com/open-data"
 repository-code: "https://github.com/WebforMike/ai-training-jobs-pay"
 license: CC-BY-4.0
-date-released: "2026-11-23"
+date-released: "2026-11-25"
+version: "2026.11.25"
 keywords: [ai training, rlhf, data annotation, platform work, jobs, pay, wages]
