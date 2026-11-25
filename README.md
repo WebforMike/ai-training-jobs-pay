@@ -1,5 +1,6 @@
 # AI training jobs and pay
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24525171.svg)](https://doi.org/10.5281/zenodo.24525171)
 [![AI Training Pay MCP connector](https://glama.ai/mcp/connectors/com.aitrainingpay/ai-training-jobs/badges/score.svg)](https://glama.ai/mcp/connectors/com.aitrainingpay/ai-training-jobs)
 
 Open data and a free MCP server for AI training work: RLHF, model evaluation, data annotation, expert data, language and voice roles. Maintained by [AI Training Pay](https://www.aitrainingpay.com), which reads the public job boards of 13 AI training platforms and records the pay each role states.
@@ -64,6 +65,8 @@ Full method: https://www.aitrainingpay.com/methodology
 
 Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit and link AI Training Pay (https://www.aitrainingpay.com).
 
-> AI Training Pay (2026). AI training jobs and pay. https://www.aitrainingpay.com/open-data
+> AI Training Pay (2026). AI training jobs and pay [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24525171
+
+That DOI always resolves to the latest release. Each dated release also has its own DOI, listed on [Zenodo](https://doi.org/10.5281/zenodo.24525171); cite that one when you need the exact files you used.
 
 Corrections: https://www.aitrainingpay.com/about#corrections

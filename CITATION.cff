@@ -6,6 +6,7 @@ authors:
   - family-names: Cortez
     given-names: Michael
     affiliation: "Hokuto Labs (AI Training Pay)"
+doi: "10.5281/zenodo.24525171"
 url: "https://www.aitrainingpay.com/open-data"
 repository-code: "https://github.com/WebforMike/ai-training-jobs-pay"
 license: CC-BY-4.0
